@@ -1,3 +1,8 @@
+---
+name: course-tracker
+description: Track your courses end to end after one login. The agent discovers your courses from your learning platform, computes how many marks you still need for your target grade, ranks what to do next, watches group work, and keeps one living dashboard honest: not submitted is never zero, and estimates are never mixed with confirmed scores.
+---
+
 # Course Tracker
 
 The promise this skill keeps: the user does two things, installs the skill and logs in once, and the agent does everything else.
@@ -49,6 +54,22 @@ The promise this skill keeps: the user does two things, installs the skill and l
 - Before a group meeting, prepare a short chase list of the silent members and the decisions the meeting must settle, such as unbooked exam slots.
 
 - Report a silent member or a slipping group deadline to the user as soon as the check finds it, not at the next summary.
+
+## Track deadlines and remind
+
+- Keep every deadline in the dashboard timeline with its owner label, and treat an unsubmitted personal or group item as the unit that reminders exist for.
+
+- Attach the place to every event that has one, meaning the room or address for an offline meeting and the join link for an online one, taken from the course page, the calendar entry, the group chat or the mail that announced it.
+
+- Put the place or the link inside the reminder itself, so the user can walk in or join straight from the reminder without hunting for it.
+
+- Remind on a ladder rather than once: surface the item in the daily digest three days out, remind directly one day out, and give a final call on the morning of the deadline day.
+
+- Verify the item's live state before every reminder, and stop reminding the moment it is submitted, because a reminder about finished work destroys trust in all the others.
+
+- Batch the reminders of one round into a single message ordered by the marks at stake, and never send one message per item.
+
+- Give teacher-side deadlines no action reminders, because the user cannot act on them, and mark them as information only in the timeline.
 
 ## Maintain it without the user typing anything
 
