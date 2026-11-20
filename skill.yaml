@@ -1,0 +1,5 @@
+name: course_tracker
+title: Course Tracker
+description: Maintain a living course dashboard with honest score states, a computed gap to the target grade and a deadline timeline, updated from the LMS and course channels without the user typing in grades.
+category: Work and knowledge
+include_in_prompt: true
