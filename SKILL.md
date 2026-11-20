@@ -105,4 +105,26 @@ The promise this skill keeps: the user does two things, installs the skill and l
 
 - Push grading detail, estimate basis, source links and history into a detail layer per course, and keep the homepage free of small print.
 
-- Use color only for state, with one color each for confirmed, awaiting or in progress, urgent and not yet open, and keep the numbers large and the layout quiet.
+- Keep the numbers large and the layout quiet, give each course one accent colour for its bar and its key figure, and carry state in words on small pills rather than in colour alone.
+
+## Design the dashboard to this standard
+
+The dashboard is the product, so build it to the reference look rather than to a generic table.
+
+- Give each course its own card on a quiet off-white background, with thin borders, generous whitespace and small muted labels in capitals, and keep filler headlines and rule explanations out.
+
+- Set one number per card very large, the confirmed total or the marks still needed, and let everything else stay small, because the eye should land on the number that matters first.
+
+- Give each course one decisive sentence with its critical figure highlighted in the course accent colour, in the shape of: of the 14 marks left, you need 10.80.
+
+- Draw every bar so its full length equals the item's full marks, keep one shared scale across all courses, mark the target line with a tick, draw a pending segment hatched, and give a not submitted item no bar at all, only its status pill.
+
+- Show state with small pills that carry the honest words, such as Final, Awaiting grading or Not submitted, and never let colour alone carry the meaning.
+
+- Show a confirmed figure and an estimate as two separate blocks side by side, the estimate smaller with a dashed underline and its basis attached, and never merge them into one bar or one number.
+
+- Spend each course's accent only on its bar and its key figure, keep the base ink on off-white, and use no gradients, no glass effects and no numbered step columns anywhere.
+
+- Put the source links at the bottom of each card in faint small text, so every figure can be traced back to the page it came from.
+
+- When the environment cannot render a page, keep the same hierarchy in plain text, with the big number first, the decisive sentence second and the sources last.
