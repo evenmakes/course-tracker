@@ -1,6 +1,6 @@
 ---
 name: course-tracker
-description: Track your courses end to end after one login. The agent discovers your courses from your learning platform, computes how many marks you still need for your target grade, ranks what to do next, watches group work, and keeps one living dashboard honest: not submitted is never zero, and estimates are never mixed with confirmed scores.
+description: Track your courses end to end after one login. The agent discovers your courses from your learning platform, computes how many marks you still need for your target grade, ranks what to do next, watches group work, and keeps one living dashboard honest. Not submitted is never zero, and estimates are never mixed with confirmed scores.
 ---
 
 # Course Tracker
