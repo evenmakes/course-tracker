@@ -127,4 +127,6 @@ The dashboard is the product, so build it to the reference look rather than to a
 
 - Put the source links at the bottom of each card in faint small text, so every figure can be traced back to the page it came from.
 
+- When the dashboard argues a point, such as why an estimate is kept apart, use the paired panel pattern from the reference, a plain panel beside a highlighted one on a dark chapter background, and close the panel with a result line whose decisive phrase is set in bold.
+
 - When the environment cannot render a page, keep the same hierarchy in plain text, with the big number first, the decisive sentence second and the sources last.
