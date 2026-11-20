@@ -22,7 +22,7 @@ Deadlines are tracked with their meeting rooms and join links, and reminders cli
 
 ## Install
 
-    npx skills add ZhizhouZhao/course-tracker
+    npx skills add evenmakes/course-tracker
 
 Then tell your agent: "Here is my learning platform, I am logged in, the rest is yours."
 
@@ -30,7 +30,7 @@ Then tell your agent: "Here is my learning platform, I am logged in, the rest is
 
 你只做两件事：装上这个 skill，在学习平台登录一次。剩下的交给你的 agent——它自己找到你的课，算出每门课离目标成绩还差多少分，按性价比排出先做哪件，盯着小组里谁交了谁没动，截止前三档提醒，交了就停。未提交永远不会显示成 0 分。
 
-    npx skills add ZhizhouZhao/course-tracker
+    npx skills add evenmakes/course-tracker
 
 ---
 Built from one real semester of tracking four courses at the University of Oulu.
