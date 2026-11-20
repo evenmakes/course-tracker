@@ -129,4 +129,6 @@ The dashboard is the product, so build it to the reference look rather than to a
 
 - When the dashboard argues a point, such as why an estimate is kept apart, use the paired panel pattern from the reference, a plain panel beside a highlighted one on a dark chapter background, and close the panel with a result line whose decisive phrase is set in bold.
 
+- Ship every dashboard in two designs, a light theme and a dark theme with identical layout, content and semantics, and put a small theme switch on the page so the reader can flip between them. Default to the reader's system preference when known, otherwise light.
+
 - When the environment cannot render a page, keep the same hierarchy in plain text, with the big number first, the decisive sentence second and the sources last.
